@@ -1,1 +1,1 @@
-# utils
+# Các function cần thiết
